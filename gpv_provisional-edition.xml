@@ -32,19 +32,42 @@
       </fileDesc>
       
    <revisionDesc/></teiHeader>
-<text xml:lang="sa-Latn-t-sa-Deva"><body>
-  <p xml:id="GPV_scribal_namaskar">oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
-
+<text xml:lang="sa-Latn-t-sa-Deva" type="edition">
+   <body>
+      <div rend="parallel">
+         <p xml:id="GPV_scribal_namaskar">oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
+         <p xml:lang="en">This is one of the best examples of poetry ever written in Kashmir.</p>
+      </div>
   <p>oṁ</p>
+  <div rend="parallel">
 <lg xml:id="GPV_1.1">
   <l>jagatsisṛkṣāpralayakriyāvidhau prayatnam unmeṣanimeṣavibhramam |</l>
   <l>vadanti yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai parameṣṭine namaḥ ||</l>
   </lg>
+  <lg xml:lang="en">
+   <l>this is</l>
+   <l>shit</l>
+   <l>of the shit</l>
+  </lg>
+</div>
+<div rend="parallel">
   <lg xml:id="GPV_1.2">
-    <l> te subhāsvarasahasraraśmayo ye smaranti gaṇapāṭham aṣṭakāḥ |</l>
+    <l> te subhāsvarasahasraraśmayo<anchor xml:id="GPV_1.2_n1"/><anchor xml:id="GPV_1.2_n2"/> ye smaranti gaṇapāṭham aṣṭakāḥ |</l>
    <l>saṃsmṛtiś ca na vinopapadyate vṛttabandham iha pāṇiner api ||</l>
   </lg>
-</body></text><standOff type="apparatus" corresp="#GPV_scribal_namaskar" source="alignments/GPV_scribal_namaskar.xml"><interp type="normalization">
+  <lg xml:lang="en">
+   <l> I mean</l>
+   <l>the shit<note place="foot">shit shit shit</note></l>
+</lg>
+</div>
+</body></text>
+<standOff corresp="#GPV_1.2" type="notes1"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
+   <note xml:lang="en" target="#GPV_1.2_n1">blah blah <q xml:lang="sa">something something</q></note>
+</standOff>
+<standOff corresp="#GPV_1.2" type="notes2"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
+   <note xml:lang="en" target="#GPV_1.2_n2">blah blah <q xml:lang="sa">something something</q></note>
+</standOff>
+<standOff type="apparatus" corresp="#GPV_scribal_namaskar" source="alignments/GPV_scribal_namaskar.xml"><interp type="normalization">
   <desc type="tagfilters">
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
