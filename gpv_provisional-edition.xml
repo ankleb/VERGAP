@@ -3,9 +3,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gaṇapāṭhavivṛti	</title>
+            <title><title xml:lang="sa-Latn">Gaṇapāṭhavivṛti</title> by <persName xml:lang="sa-Latn">Prakāśavarṣa</persName></title>
             
-         <editor><persName>Andrey Klebanov</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <title type="sub">serious provisional edition by serious scholar Andrey Klebanov</title></titleStmt>
          <publicationStmt>
             <publisher>VERGAP Project</publisher>
             <date>2026</date>
@@ -28,6 +28,10 @@
 <witness xml:id="Ed" source="gpv_provisional-edition.xml">
 <abbr>Ed</abbr>
 <expan>Gaṇapāṭhavivṛti</expan>
+</witness>
+<witness xml:id="W" source="witnesses/wai_9312.xml">
+<abbr>W</abbr>
+<expan>Wai 9312</expan>
 </witness></listWit></sourceDesc>
       </fileDesc>
       
@@ -103,6 +107,12 @@
   </desc>
 </interp>
 <listApp>
+  <listApp type="omissions">
+    <app loc="0,107">
+      <lem>te… api</lem>
+      <rdg wit="#W"/>
+    </app>
+  </listApp>
   <app loc="2,4">
     <lem>su</lem>
     <rdg wit="#K">
@@ -126,4 +136,12 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
   </desc>
-</interp></standOff></TEI>
+</interp>
+<listApp>
+  <listApp type="omissions">
+    <app loc="0,122">
+      <lem>jagatsisṛkṣāpralayakriyāvidhau… namaḥ</lem>
+      <rdg wit="#W"/>
+    </app>
+  </listApp>
+</listApp></standOff></TEI>

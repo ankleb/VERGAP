@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>K 235</title>
+            <title>Wai 9312</title>
             
          <editor><persName>Andrey Klebanov</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
          <publicationStmt>
@@ -14,22 +14,27 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Kurukshetra University</orgName>
+                     <orgName>Prajna Pathashala Mandala, Wai</orgName>
                   </repository>
-                  <idno type="shelfmark">235</idno>
-                  <idno type="alternate"><idno>Acc.No.51082</idno></idno>
-               <idno type="URI">https://archive.org/details/MN003353GanaPathVivrittiSharadaManuscriptsAtKurukshetraUniversity</idno></msIdentifier>
-               <msContents class="#STM">
-                  <summary>Gaṇapāṭhavivṛti by Prakāśavarṣa, Kurukshetra University, Śāradā script</summary>
+                  <idno type="shelfmark">9312</idno>
+                  <idno type="alternate"><idno>529</idno></idno>
+               </msIdentifier>
+               <msContents class="#MTM">
+                  <summary><p>This is a MS held ad the Prajna Pathashala Mandala in Wai, Sattara. This is a multiple-text manuscript, containing at least three different codicological units. </p>
+<p>Folios 1-30 contain the text is the <title xml:lang="sa-lang">Dhātupāṭha</title> edited (<term xml:lang="sa-latin">pavita</term>) by <persName xml:lang="sa-latin">Bhīmasena</persName>. It is complete and contains 30 folios.</p>
+<p>Folios 31-66 are written by a different hand and contain the text of the <title xml:lang="sa-latin">Gaṇapāṭhavivṛti</title>. The text is incomplete, as it misses some text in the beginning and in the middle. The foliation continuous from the preceding codicological unit and must have been added by a later hand.</p>
+<p>Folios nr. 42-47 contain an unidentifed text on phonetics (<term xml:lang="sa-latin">śikṣā</term>.</p>
+
+</summary>
                   
-               <msItem xml:id="K" defective="false"><title xml:lang="sa">Gaṇapāṭhavivṛti</title><author xml:lang="sa">Prakāśavarṣa</author><textLang mainLang="san"/></msItem></msContents>
+               <msItem xml:id="W" defective="true"><title xml:lang="sa">Gaṇapāṭhavivṛti</title><author xml:lang="sa">Prakāśavarṣa</author><textLang mainLang="san"/></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="baad" rend="manuscript">
+               <objectDesc form="pothi" rend="manuscript">
                      <supportDesc material="paper">
                         
                         
@@ -39,7 +44,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="65"/>
+                           <measure unit="folio" quantity="66"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -52,11 +57,11 @@
                               
                               
                            </dimensions>
-                        </extent><condition>good</condition></supportDesc>
+                        </extent></supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="10"/>
+                        <layout writtenLines="7 9"/>
                      </layoutDesc>
-                  </objectDesc><handDesc><handNote scope="sole" script="sarada" medium="ink black"/></handDesc><additions>
+                  </objectDesc><handDesc><handNote scope="major" script="devanagari" medium="ink black"/></handDesc><additions>
                   </additions><bindingDesc>
                      <binding>
                         
@@ -81,21 +86,12 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      <encodingDesc><p>IAST, spaces not transcribed</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/MN003353GanaPathVivrittiSharadaManuscriptsAtKurukshetraUniversity/manifest.json"/></facsimile>
-<text corresp="#K" xml:lang="sa"><body>
-  <p xml:id="GPV_scribal_namaskar"><pb n="1" facs="3"/><lb n="1"/>oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
-
-  <p><lb n="2"/>oṁ</p>
-<lg xml:id="GPV_1.1">
-  <l>jagatsisṛkṣāpralayakriyāvidhau pra<lb n="3"/>yatnam unmeṣanimeṣavibhramam</l>
-  <l>vadanti <lb n="4"/>yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai pa<lb n="5"/>rameṣṭine namaḥ</l>
-  </lg>
-  <lg xml:id="GPV_1.2">
-    <l> te <unclear>sa</unclear>bhāsvarasahasraraśma<lb n="6"/>yo ye smaranti gaṇapāṭham aṣṭakāḥ</l>
-   <l>saṃsmṛ<lb n="7"/>tiś ca na vinopapadyate vṛttabandham iha pā<lb n="8"/>ṇiner api</l>
-  </lg>
-</body></text></TEI>
+   </facsimile>
+<text corresp="#W" xml:lang="sa"><body>
+  <lg xml:id="GPV_1.1"></lg>
+  <lg xml:id="GPV_1.2"></lg>
+  </body></text></TEI>
