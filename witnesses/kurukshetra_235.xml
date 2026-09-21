@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gaṇapāṭhavivṛti	</title>
+            
+         <editor><persName>Andrey Klebanov</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>VERGAP Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Kurukshetra University</orgName>
+                  </repository>
+                  <idno type="shelfmark">235</idno>
+                  <idno type="alternate"><idno>Acc.No.51082</idno></idno>
+               <idno type="URI">https://archive.org/details/MN003353GanaPathVivrittiSharadaManuscriptsAtKurukshetraUniversity</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>Gaṇapāṭhavivṛti by Prakāśavarṣa, Kurukshetra University, Śāradā script</summary>
+                  
+               <msItem xml:id="K" defective="false"><title xml:lang="sa">Gaṇapāṭhavivṛti</title><author xml:lang="sa">Prakāśavarṣa</author><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="baad" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="65"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>good</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="10"/>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="sarada" medium="ink black"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/MN003353GanaPathVivrittiSharadaManuscriptsAtKurukshetraUniversity/manifest.json"/></facsimile>
+<text corresp="#K" xml:lang="sa"><body>
+  <p xml:id="GPV_scribal_namaskar"><pb n="1" facs="3"/><lb n="1"/>oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
+
+  <p><lb n="2"/>oṁ</p>
+<lg xml:id="GPV_1.1">
+  <l>jagatsisṛkṣāpralayakriyāvidhau pra<lb n="3"/>yatnam unmeṣanimeṣavibhramam</l>
+  <l>vadanti <lb n="4"/>yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai pa<lb n="5"/>rameṣṭine namaḥ</l>
+  </lg>
+  <lg xml:id="GPV_1.2">
+    <l> te <unclear>sa</unclear>bhāsvarasahasraraśma<lb n="6"/>yo ye smaranti gaṇapāṭham aṣṭakāḥ</l>
+   <l>saṃsmṛ<lb n="7"/>tiś ca na vinopapadyate vṛttabandham iha pā<lb n="8"/>ṇiner api</l>
+  </lg>
+</body></text></TEI>
