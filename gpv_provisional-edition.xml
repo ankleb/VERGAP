@@ -80,10 +80,10 @@
       <div rend="parallel">
         <lg xml:id="GPV_1.1">
           <l>jagatsisṛkṣāpralayakriyāvidhau prayatnam unmeṣanimeṣavibhramam |</l>
-          <l>vadanti yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai parameṣṭine namaḥ ||</l>
+          <l>vadanti yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai parameṣṭine namaḥ ||<anchor xml:id="GPV_1.1_n1"/><anchor xml:id="GPV_1.1_n2"/></l>
         </lg>
         <lg xml:lang="en">
-          <l>Obeisance to this Highest Supreme Lord (parameṣṭhin), the playful opening and closing of the swinging lashes of whose eyes they call the effort of enacting the creation and dissolution of the Universe!</l>
+          <l>Obeisance to this Highest Supreme Lord (<term xml:lang="sa">parameṣṭhin</term>), the playful opening and closing of the swinging lashes of whose eyes they call the effort of enacting the creation and dissolution of the Universe!</l>
         </lg>
       </div>
       <div rend="parallel">
@@ -92,12 +92,18 @@
           <l>saṃsmṛtiś ca na vinopapadyate vṛttabandham iha pāṇiner api ||</l>
         </lg>
         <lg xml:lang="en">
-          <l> I mean</l>
-          <l>the shit<note place="foot">shit shit shit</note></l>
+          <l>Radiant suns are those students of the <title xml:lang="sa">Aṣṭādhyāyī</title> who remember the <title xml:lang="sa">Gaṇapāṭha</title>. And here, even for Pāṇini, memorization is not possible without a metrical composition.</l>
+          <l>Translation<note place="foot">This is a footnote to the translation</note></l>
         </lg>
       </div>
     </body>
   </text>
+  <standOff corresp="#GPV_1.1" type="notes2"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
+    <note xml:lang="en" target="#GPV_1.1_n1">Cf. <title xml:lang="sa-Latn">Spandakārikā</title> 1.1: <q xml:lang="sa">yasyonmeṣanimeṣābhyāṃ jagataḥ pralayodayau | taṃ śakticakravibhavaprabhavaṃ śaṅkaraṃ stumaḥ ||</q></note>
+  </standOff>
+  <standOff corresp="#GPV_1.1" type="notes2"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
+    <note xml:lang="en" target="#GPV_1.1_n2">Cf. <title xml:lang="sa-Latn">Mokṣopāya</title> 3.9.10: <q xml:lang="sa">yaś conmeṣanimeṣābhyāṃ vidheḥ pralayasaṃbhavau/ paśyet trilokyāḥ khasamaḥ sa jīvanmukta ucyate//</q></note>
+  </standOff>
   <standOff corresp="#GPV_1.2" type="notes1"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
     <note xml:lang="en" target="#GPV_1.2_n1">blah blah <q xml:lang="sa">something something</q></note>
   </standOff>
