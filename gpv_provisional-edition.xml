@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
@@ -74,7 +73,7 @@
     <body>
       <div rend="parallel">
         <p xml:id="GPV_scribal_namaskar">oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
-        <p xml:lang="en"></p>
+        <p xml:lang="en"/>
       </div>
       <p>oṁ</p>
       <div rend="parallel">
@@ -86,10 +85,13 @@
           <l>Obeisance to this Highest Supreme Lord (<term xml:lang="sa">parameṣṭhin</term>), the playful opening and closing of the swinging lashes of whose eyes they call the effort of enacting the creation and dissolution of the Universe!</l>
         </lg>
       </div>
-        <lg xml:id="GPV_1.1_annotate">
-          <l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<anchor xml:id="GPV_1.1_annotate_n1"/> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
-          <l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
-        </lg>
+      <lg xml:id="GPV_1.1_annotate">
+        <l>
+          <b>Annotations</b>
+        </l>
+        <l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<anchor xml:id="GPV_1.1_annotate_n1"/> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
+        <l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
+      </lg>
       <div rend="parallel">
         <lg xml:id="GPV_1.2">
           <l> te subhāsvarasahasraraśmayo<anchor xml:id="GPV_1.2_n1"/><anchor xml:id="GPV_1.2_n2"/> ye smaranti gaṇapāṭham aṣṭakāḥ |</l>
@@ -117,86 +119,80 @@
   <standOff corresp="#GPV_1.2" type="notes2"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
     <note xml:lang="en" target="#GPV_1.2_n2">blah blah <q xml:lang="sa">something something</q></note>
   </standOff>
-  <standOff type="apparatus" corresp="#GPV_scribal_namaskar" source="alignments/GPV_scribal_namaskar.xml">
-    <interp type="normalization">
-      <desc type="tagfilters">
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
-      </desc>
-    </interp>
-  </standOff>
-  <standOff type="apparatus" corresp="#GPV_1.2" source="alignments/GPV_1.2.xml">
-    <interp type="normalization">
-      <desc type="tagfilters">
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
-      </desc>
-    </interp>
-    <listApp>
-      <listApp type="omissions">
-        <app loc="0,107">
-          <lem>te… api</lem>
-          <rdg wit="#W"/>
-        </app>
-      </listApp>
-      <app loc="2,4">
-        <lem>su</lem>
-        <rdg wit="#K">
-          <unclear>sa</unclear>
-        </rdg>
-      </app>
-    </listApp>
-  </standOff>
-  <standOff type="apparatus" corresp="#GPV_1.1" source="alignments/GPV_1.1.xml">
-    <interp type="normalization">
-      <desc type="tagfilters">
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
-        <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
-      </desc>
-    </interp>
-    <listApp>
-      <listApp type="omissions">
-        <app loc="0,122">
-          <lem>jagatsisṛkṣāpralayakriyāvidhau… namaḥ</lem>
-          <rdg wit="#W"/>
-        </app>
-      </listApp>
-    </listApp>
-  </standOff>
+  <standOff type="apparatus" corresp="#GPV_scribal_namaskar" source="alignments/GPV_scribal_namaskar.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
+  </desc>
+</interp></standOff>
+  <standOff type="apparatus" corresp="#GPV_1.2" source="alignments/GPV_1.2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
+  </desc>
+</interp>
+<listApp>
+  <listApp type="omissions">
+    <app loc="0,107">
+      <lem>te… api</lem>
+      <rdg wit="#W"/>
+    </app>
+  </listApp>
+  <app loc="2,4">
+    <lem subtype="prefix">su</lem>
+    <rdg wit="#K">
+      <unclear>sa</unclear>
+    </rdg>
+  </app>
+</listApp></standOff>
+  <standOff type="apparatus" corresp="#GPV_1.1" source="alignments/GPV_1.1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">rt</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">trailer</tag>
+  </desc>
+</interp>
+<listApp>
+  <listApp type="omissions">
+    <app loc="0,122">
+      <lem>jagatsisṛkṣāpralayakriyāvidhau… namaḥ</lem>
+      <rdg wit="#W"/>
+    </app>
+  </listApp>
+</listApp></standOff>
 </TEI>
