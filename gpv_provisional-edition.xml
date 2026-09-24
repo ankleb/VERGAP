@@ -86,10 +86,12 @@
           <l>Obeisance to this Highest Supreme Lord (<term xml:lang="sa">parameṣṭhin</term>), the playful opening and closing of the swinging lashes of whose eyes they call the effort of enacting the creation and dissolution of the Universe!</l>
         </lg>
       </div>
-<lg xml:id="GPV_1.1_anno">
-<l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<anchor xml:id="GPV_1.1_anno_n1"/> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
-<l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
-</lg>
+      <div rend="parallel">
+        <lg xml:id="GPV_1.1_anno">
+          <l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<anchor xml:id="GPV_1.1_anno_n1"/> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
+          <l> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</l>
+        </lg>
+      </div>
       <div rend="parallel">
         <lg xml:id="GPV_1.2">
           <l> te subhāsvarasahasraraśmayo<anchor xml:id="GPV_1.2_n1"/><anchor xml:id="GPV_1.2_n2"/> ye smaranti gaṇapāṭham aṣṭakāḥ |</l>
@@ -102,9 +104,9 @@
       </div>
     </body>
   </text>
-<standoff corresp="#GPV_1.1_anno" type="notes1">
-<note xml:lang="en" target="#GPV_1.1_anno_n1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</note>
-</standoff>
+  <standoff corresp="#GPV_1.1_anno" type="notes1">
+    <note xml:lang="en" target="#GPV_1.1_anno_n1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</note>
+  </standoff>
   <standOff corresp="#GPV_1.1" type="notes2"><!-- notes1=sources, notes2=parallels, notes3=testimonia, notes4=critical notes -->
     <note xml:lang="en" target="#GPV_1.1_n1">Cf. <title xml:lang="sa-Latn">Spandakārikā</title> 1.1: <q xml:lang="sa">yasyonmeṣanimeṣābhyāṃ jagataḥ pralayodayau | taṃ śakticakravibhavaprabhavaṃ śaṅkaraṃ stumaḥ ||</q></note>
   </standOff>
