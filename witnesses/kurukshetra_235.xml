@@ -135,11 +135,11 @@
         <l><lb n="8"/>parakīyaguṇena mūrdhni tīvraṃ drughaṇeneva <lb n="9"/>hatāḫ prayānti mūrcchām</l>
         <l>atha cet skhalitaṃ <lb n="9"/>khalā labhante tad avāpyeva sudhāṃ samucchvasanti</l>
       </lg>
-<lg xml:id="GPV_1.6">
-<l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim</l> 
-<l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā</l>
-</lg>
-<p xml:id="GPV_A.1.1.27">sarvādīninsarvanāmā<lb n="5"/></p>
+      <lg xml:id="GPV_1.6">
+        <l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim</l>
+        <l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā</l>
+      </lg>
+      <p xml:id="GPV_A.1.1.27">sarvādīninsarvanāmā<lb n="5"/></p>
     </body>
   </text>
 </TEI>
