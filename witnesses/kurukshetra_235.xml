@@ -120,13 +120,26 @@
         <l>saṃsmṛ<lb n="7"/>tiś ca na vinopapadyate vṛttabandham iha pā<lb n="8"/>ṇiner api</l>
       </lg>
       <lg xml:id="GPV_1.3">
-        <l>yathānupūrvyaṃ racanāśrutau su<lb n="9"/>khaṃ karoti na vyaktim anādṛtā tataḥ</l>
+        <l>yathānupūrvyaṃ racanā śrutau su<lb n="9"/>khaṃ karoti na vyaktim anādṛtā tataḥ</l>
         <l>prayo<lb n="10"/>janādhīnatayā kvacit kvacit kramas samāśrā<pb n="2" facs="4"/><lb n="1"/>yī yathā vidādiṣu</l>
       </lg>
       <lg xml:id="GPV_1.3">
-        <l>bhavati gauravam atra ya<lb n="2"/>thā sthite sati gaṇe niyamāt paṭhate yataḥ</l>
-        <l><lb n="3"/>kvacid atho?parathā sanibhartsyate na khalu va<lb n="4"/>stuni kācid api kṣatiḥ/</l>
+        <l>bhavati gauravam atra ya<lb n="2"/>thāsthite sati gaṇe niyamāt paṭhate yataḥ</l>
+        <l><lb n="3"/>kvacid atho?parathā sa nibhartsyate na khalu va<lb n="4"/>stuni kācid api kṣatiḥ/</l><!--drutavilambita-->
       </lg>
+      <lg xml:id="GPV_1.4">
+        <l>aśaknuvanto ma<lb n="5"/>nasāpi gāhito raṇājiraṃ kāvyakathā<lb n="6"/>pathaṃ tathā</l>
+        <l>janās taṭasthā api yuddhaśā<lb n="7"/>linaḥ kaveś ca doṣān avacinvate dhikam</l>
+      </lg>
+      <lg xml:id="GPV_1.5">
+        <l><lb n="8"/>parakīyaguṇena mūrdhni tīvraṃ drughaṇeneva <lb n="9"/>hatāḫ prayānti mūrcchām</l>
+        <l>atha cet skhalitaṃ <lb n="9"/>khalā labhante tad avāpyeva sudhāṃ samucchvasanti</l>
+      </lg>
+<lg xml:id="GPV_1.6">
+<l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim</l> 
+<l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā</l>
+</lg>
+<p xml:id="GPV_A.1.1.27">sarvādīninsarvanāmā<lb n="5"/></p>
     </body>
   </text>
 </TEI>
