@@ -103,16 +103,8 @@
 
       <editorialDecl>
         <segmentation>
-          <p>Scribal separation marks written below the line are encoded
-            with metamark and function="separation". A simple vertical
-            stroke is transcribed as |, while a vertical stroke accompanied
-            by an avagraha-like sign is transcribed as |'. The attribute ana
-            records whether the sign marks a boundary between words or
-            between members of a compound, and whether the linguistic
-            boundary falls between the phonological values represented by
-            two akṣaras or within the phonological value represented by a
-            single akṣara.</p>
-          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <gi>&lt;space&gt;</gi>
+          <p>Scribal separation marks written below the line are encoded with &lt;<gi>metamark</gi>&gt; and <att>function</att>="separation". A simple vertical stroke is transcribed as <c xml:lang="sa">|</c>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <c xml:lang="sa">|'</c>. The attribute <att>ana</att> records whether the sign marks a boundary between words or between members of a compound, and whether the linguistic boundary falls between the phonological values represented by two akṣaras or within the phonological value represented by asingle akṣara.</p>
+          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with &lt;<gi>space</gi>&gt;
   <att>type</att>="punctuation". Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
         </segmentation>
       </editorialDecl>
