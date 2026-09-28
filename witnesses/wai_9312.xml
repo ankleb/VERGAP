@@ -1,111 +1,144 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Wai 9312</title>
-            
-         <editor><persName>Andrey Klebanov</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
-         <publicationStmt>
-            <publisher>VERGAP Project</publisher>
-            <date>2026</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>
-                     <orgName>Prajna Pathashala Mandala, Wai</orgName>
-                  </repository>
-                  <idno type="shelfmark">9312</idno>
-                  <idno type="alternate"><idno>529</idno></idno>
-               </msIdentifier>
-               <msContents class="#MTM">
-                  <summary><p>This is a MS held ad the Prajna Pathashala Mandala in Wai, Sattara. This is a multiple-text manuscript, containing at least three different codicological units. </p>
-<p>Folios 1-30 contain the text is the <title xml:lang="sa-lang">Dhātupāṭha</title> edited (<term xml:lang="sa-latin">pavita</term>) by <persName xml:lang="sa-latin">Bhīmasena</persName>. It is complete and contains 30 folios.</p>
-<p>Folios 31-66 are written by a different hand and contain the text of the <title xml:lang="sa-latin">Gaṇapāṭhavivṛti</title>. The text is incomplete, as it misses some text in the beginning and in the middle. The foliation continuous from the preceding codicological unit and must have been added by a later hand.</p>
-<p>Folios nr. 42-47 contain an unidentifed text on phonetics (<term xml:lang="sa-latin">śikṣā</term>.</p>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wai 9312</title>
 
-</summary>
-                  
-               <msItem xml:id="W" defective="true"><title xml:lang="sa">Gaṇapāṭhavivṛti</title><author xml:lang="sa">Prakāśavarṣa</author><textLang mainLang="san"/></msItem></msContents>
-               <physDesc>
-                  
-                  
-                  
-                  
-                  
-               <objectDesc form="pothi" rend="manuscript">
-                     <supportDesc material="paper">
-                        
-                        
-                        
-                        
-                        
-                     <support>
-                           
-                        </support><extent>
-                           <measure unit="folio" quantity="66"/>
-                           <dimensions type="object" unit="mm">
-                              
-                              
-                           </dimensions>
-                           <dimensions type="leaf" unit="mm">
-                              
-                              
-                           </dimensions>
-                           <dimensions type="written" unit="mm">
-                              
-                              
-                           </dimensions>
-                        </extent></supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="7 9"/>
-                     </layoutDesc>
-                  </objectDesc><handDesc><handNote scope="major" script="devanagari" medium="ink black"/></handDesc><additions>
-                  </additions><bindingDesc>
-                     <binding>
-                        
-                        <decoNote type="stringhole">
-                           <measure unit="stringhole"/>
-                        </decoNote>
-                    </binding>
-                  </bindingDesc></physDesc>
-               <history>
-                  
-                  
-                  
-               <origin>
-                     <origDate calendar="gregorian"/>
-                     
-                  </origin></history>
-               <additional>
-                  <listBibl>
-                     
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc><p>IAST, spaces not transcribed</p></encodingDesc>
-      
-   <revisionDesc/></teiHeader>
-   <facsimile>
-   </facsimile>
-<text corresp="#W" xml:lang="sa"><body>
-  <lg xml:id="GPV_1.1"></lg>
-  <lg xml:id="GPV_1.2"></lg>
+        <editor>
+          <persName>Andrey Klebanov</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>VERGAP Project</publisher>
+        <date>2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>
+              <orgName>Prajna Pathashala Mandala, Wai</orgName>
+            </repository>
+            <idno type="shelfmark">9312</idno>
+            <idno type="alternate">
+              <idno>529</idno>
+            </idno>
+          </msIdentifier>
+          <msContents class="#MTM">
+            <summary>
+              <p>This is a MS held ad the Prajna Pathashala Mandala in Wai, Sattara. This is a multiple-text manuscript, containing at least three different codicological units. </p>
+              <p>Folios 1-30 contain the text of the <title xml:lang="sa-lang">Dhātupāṭha</title> edited (<term xml:lang="sa-latin">pavita</term>) by <persName xml:lang="sa-latin">Bhīmasena</persName>. It is complete and contains 30 folios.</p>
+              <p>Folios 31-66 are written by a different hand and contain the text of the <title xml:lang="sa-latin">Gaṇapāṭhavivṛti</title>. The text is incomplete, as it misses some text in the beginning and in the middle. The foliation continuous from the preceding codicological unit and must have been added by a later hand.</p>
+              <p>Folios nr. 42-47 contain an unidentifed text on phonetics (<term xml:lang="sa-latin">śikṣā</term>.</p>
+
+            </summary>
+
+            <msItem xml:id="W" defective="true">
+              <title xml:lang="sa">Gaṇapāṭhavivṛti</title>
+              <author xml:lang="sa">Prakāśavarṣa</author>
+              <textLang mainLang="san"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+
+
+            <objectDesc form="pothi" rend="manuscript">
+              <supportDesc material="paper">
+
+
+                <support>
+
+                </support>
+                <extent>
+                  <measure unit="folio" quantity="66"/>
+                  <dimensions type="object" unit="mm">
+
+
+                  </dimensions>
+                  <dimensions type="leaf" unit="mm">
+
+
+                  </dimensions>
+                  <dimensions type="written" unit="mm">
+
+
+                  </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout writtenLines="7 9"/>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote scope="major" script="devanagari" medium="ink black"/>
+            </handDesc>
+            <additions>
+            </additions>
+            <bindingDesc>
+              <binding>
+
+                <decoNote type="stringhole">
+                  <measure unit="stringhole"/>
+                </decoNote>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+
+
+            <origin>
+              <origDate calendar="gregorian"/>
+
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>IAST, spaces not transcribed</p>
+    </encodingDesc>
+
+    <revisionDesc/>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text corresp="#W" xml:lang="sa">
+    <body>
+      <lg xml:id="GPV_1.1"></lg>
+      <lg xml:id="GPV_1.2"></lg>
       <lg xml:id="GPV_1.6">
         <l><pb n="31r" facs="61"/><lb n="1"/>bhavaṃtu vā pūgatithā guṇadviṣas svakarma tebhyo jahi so bhayena kim<space type="punctuation"/></l>
         <l>mṛgāyatas saṃti tataḥ kṛ<lb n="2"/>ṣīvalā yathā vapaṃtīha na kiṃ yadṛcchayā<space type="punctuation"/></l>
       </lg>
       <p xml:id="GPV_A.1.1.27">sarvādīni sarvanāmāni<space type="punctuation"/></p>
       <lg xml:id="GPV_1.1.27.1">
-<l>sarvaṃ viśvam ubhobha<lb n="3"/>yaḍataraṃ ḍatametarānyāni<space type="punctuation"/></l>
-<l>anyatarattvatvadvā nemasamasimaṃ ca pūrvādyāḥ<space type="punctuation"/></l>
-</lg>
+        <l>sarvaṃ viśvam ubhobha<lb n="3"/>yaḍataraṃ ḍatametarānyāni<space type="punctuation"/></l>
+        <l>anyatarattvatvadvā nemasamasimaṃ ca pūrvādyāḥ<space type="punctuation"/></l>
+      </lg>
       <lg xml:id="GPV_1.1.27.2">
-<l>tyattadyadetadadasasta<lb n="4"/>thedamekadviyuṣmadasmac ca<space type="punctuation"/></l>
-<l>bhavatukim ity evam ayaṃ sarvādigaṇo bhyadhāyi budhaiḥ<space type="punctuation"/></l>
-</lg>
+        <l>tyattadyadetadadasasta<lb n="4"/>thedamekadviyuṣmadasmac ca<space type="punctuation"/></l>
+        <l>bhavatukim ity evam ayaṃ sarvādigaṇo bhyadhāyi budhaiḥ<space type="punctuation"/></l>
+      </lg>
       <p xml:id="GPV_A.1.1.37">sarvādini<lb n="5"/>pātam avyayam<space type="punctuation"/></p>
-  </body></text></TEI>
+      <lg xml:id="GPV_1.1.37.1">
+        <l>svaḥ prataḥ punar aṃtas sanutar nnīcaiḥ śanair ṛte yugapat<space type="punctuation"/></l>
+        <l>uccair ṛdhag āra<lb n="6"/>t pṛthag īṣad rātrau divādyaḥ śvaḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.1.37.2">
+        <l>sāyaṃ ciraṃ manāg joṣaṃ nikaṣā samayā svayam<space type="punctuation"/></l>
+        <l>tūṣṇīṃ bahir adho <lb n="7"/>naktaṃ mṛṣā hetau sanat sanāt<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.1.37.3">
+        <l>addheddhā sāmi kaṃ śaṃ<unclear>yogyaktiro</unclear>jyogvatāṃtarā sanā vināstisva<lb n="8"/>styanyannānopāṃśuvihāyasā<space type="punctuation"/></l>
+        <l>kṣamā doṣā mudhā mithyā mitho bhīkṣṇaṃ prabāhukam mithunārya<pb n="31v"/><lb n="1"/>phalaṃ sārdhaṇ manaś ca mithunaṃ purā<space type="punctuation"/></l>
+      </lg>
+    </body>
+  </text>
+</TEI>
