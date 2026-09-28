@@ -102,7 +102,7 @@
       <p>IAST transliteration.</p>
 
       <editorialDecl>
-        <p>Scribal separation marks written below the line are encoded with <code>&lt;<gi>metamark</gi>&gt;</code> and <code><att>function</att>="separation"</code>. A simple vertical stroke is transcribed as <term xml:lang="sa">|</term>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <term xml:lang="sa">|'</term>. The simple vertical stroke usually marks a boundary falling between the phonological values represented by two akṣaras, whereas the latter marks a boundary falling within the phonological value represented by a single akṣara. The attribute <code>@<att>ana</att></code> records whether the sign marks a boundary between words or between members of a compound.</p>
+        <p>Scribal separation marks written below the line are encoded with <code>&lt;<gi>metamark</gi>&gt;</code> and <code>@<att>function</att>="separation"</code>. A simple vertical stroke is transcribed as <term xml:lang="sa">|</term>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <term xml:lang="sa">|'</term>. The simple vertical stroke usually marks a boundary falling between the phonological values represented by two akṣaras, whereas the latter marks a boundary falling within the phonological value represented by a single akṣara. The attribute <code>@<att>ana</att></code> records whether the sign marks a boundary between words or between members of a compound.</p>
 
         <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <code>&lt;<gi>space</gi> <att>type</att>="punctuation"/&gt;</code>. Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
       </editorialDecl>
