@@ -99,6 +99,7 @@
     </fileDesc>
     <encodingDesc>
       <p>IAST transliteration.</p>
+      <p>Two types of scribal separation mark occurring below the line are transcribed using <gi>metamark</gi> with <att>function</att>="separation". A simple vertical stroke is represented as <c>|</c>. A vertical stroke accompanied by an avagraha-like sign is represented as <c>|'</c>. The latter is used where the linguistic boundary falls within the phonological value represented by a single written akṣara. The attribute <att>ana</att> distinguishes word boundaries from boundaries between members of compounds and records whether the linguistic boundary falls between or within akṣara values.</p>
     </encodingDesc>
 
     <revisionDesc/>
