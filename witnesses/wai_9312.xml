@@ -94,4 +94,18 @@
 <text corresp="#W" xml:lang="sa"><body>
   <lg xml:id="GPV_1.1"></lg>
   <lg xml:id="GPV_1.2"></lg>
+      <lg xml:id="GPV_1.6">
+        <l><pb n="31r" facs="61"/><lb n="1"/>bhavaṃtu vā pūgatithā guṇadviṣas svakarma tebhyo jahi so bhayena kim<space type="punctuation"/></l>
+        <l>mṛgāyatas saṃti tataḥ kṛ<lb n="2"/>ṣīvalā yathā vapaṃtīha na kiṃ yadṛcchayā<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_A.1.1.27">sarvādīni sarvanāmāni<space type="punctuation"/></p>
+      <lg xml:id="GPV_1.1.27.1">
+<l>sarvaṃ viśvam ubhobha<lb n="3"/>yaḍataraṃ ḍatametarānyāni<space type="punctuation"/></l>
+<l>anyatarattvatvadvā nemasamasimaṃ ca pūrvādyāḥ<space type="punctuation"/></l>
+</lg>
+      <lg xml:id="GPV_1.1.27.2">
+<l>tyattadyadetadadasasta<lb n="4"/>thedamekadviyuṣmadasmac ca<space type="punctuation"/></l>
+<l>bhavatukim ity evam ayaṃ sarvādigaṇo bhyadhāyi budhaiḥ<space type="punctuation"/></l>
+</lg>
+      <p xml:id="GPV_A.1.1.37">sarvādini<lb n="5"/>pātam avyayam<space type="punctuation"/></p>
   </body></text></TEI>
