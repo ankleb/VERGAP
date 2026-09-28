@@ -112,7 +112,7 @@
             boundary falls between the phonological values represented by
             two akṣaras or within the phonological value represented by a
             single akṣara.</p>
-          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <gi><space/></gi>
+          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <gi>&lt;space&gt;</gi>
   <att>type</att>="punctuation". Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
         </segmentation>
       </editorialDecl>
