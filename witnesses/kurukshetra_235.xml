@@ -116,7 +116,7 @@
   <att>type</att>="punctuation". Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
         </segmentation>
       </editorialDecl>
-<!--
+      <!--
       <classDecl>
         <taxonomy xml:id="separatorAnalysis">
 
