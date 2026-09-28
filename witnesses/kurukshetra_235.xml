@@ -112,8 +112,8 @@
             boundary falls between the phonological values represented by
             two akṣaras or within the phonological value represented by a
             single akṣara.</p>
-          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <gi>space</gi>
-  <att>type</att>="punctuation". Their interpreted function is recorded with <att>ana</att>, distinguishing, where identifiable, sentence, half-verse, verse, and other textual boundaries. Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
+          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <gi><space/></gi>
+  <att>type</att>="punctuation".</p>
         </segmentation>
       </editorialDecl>
 <!--
