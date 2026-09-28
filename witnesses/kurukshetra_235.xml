@@ -139,7 +139,11 @@
         <l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim</l>
         <l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā</l>
       </lg>
-      <p xml:id="GPV_A.1.1.27">sarvādīninsarvanāmā<lb n="5"/></p>
+      <p xml:id="GPV_A.1.1.27">sarvādīni sarvanāmā<lb n="5"/>ni</p>
     </body>
+    <lg xml:id="GPV_1-1.1.27">
+      <l>sarvaṃ viśvam ubhobhayaṃ ḍataraṃ ḍatametarānyāni</l>
+      <l>anyatara-</l>
+    </lg>
   </text>
 </TEI>
