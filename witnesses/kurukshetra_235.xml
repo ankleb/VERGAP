@@ -116,7 +116,7 @@
   <att>type</att>="punctuation". Their interpreted function is recorded with <att>ana</att>, distinguishing, where identifiable, sentence, half-verse, verse, and other textual boundaries. Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
         </segmentation>
       </editorialDecl>
-
+<!--
       <classDecl>
         <taxonomy xml:id="separatorAnalysis">
 
@@ -146,7 +146,7 @@
 
         </taxonomy>
       </classDecl>
-
+-->
     </encodingDesc>
 
     <revisionDesc/>
