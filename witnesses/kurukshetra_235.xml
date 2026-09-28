@@ -102,10 +102,9 @@
       <p>IAST transliteration.</p>
 
       <editorialDecl>
-        <segmentation>
-          <p>Scribal separation marks written below the line are encoded with <code>&lt;<gi>metamark</gi>&gt;</code> and <code><att>function</att>="separation"</code>. A simple vertical stroke is transcribed as <term xml:lang="sa">|</term>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <term xml:lang="sa">|'</term>. The attribute <code>@<att>ana</att></code> records whether the sign marks a boundary between words or between members of a compound, and whether the linguistic boundary falls between the phonological values represented by two akṣaras or within the phonological value represented by asingle akṣara.</p>
-          <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <code>&lt;<gi>space</gi> <att>type</att>="punctuation"/&gt;</code> (shown as <space/>). Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
-        </segmentation>
+        <p>Scribal separation marks written below the line are encoded with <code>&lt;<gi>metamark</gi>&gt;</code> and <code><att>function</att>="separation"</code>. A simple vertical stroke is transcribed as <term xml:lang="sa">|</term>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <term xml:lang="sa">|'</term>. The simple vertical stroke always marks a boundary falling between the phonological values represented by two akṣaras, whereas the latter marks a boundary falling within the phonological value represented by a single akṣara. The attribute <code>@<att>ana</att></code> records whether the sign marks a boundary between words or between members of a compound.</p>
+
+        <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <code>&lt;<gi>space</gi> <att>type</att>="punctuation"/&gt;</code>. Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
       </editorialDecl>
       <!--
       <classDecl>
@@ -151,37 +150,37 @@
 
       <p><lb n="2"/>oṁ</p>
       <lg xml:id="GPV_1.1">
-        <l>jagatsisṛkṣāpralayakriyāvidhau pra<lb n="3"/>yatnam unmeṣanimeṣavibhramam</l>
-        <l>vadanti <lb n="4"/>yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai pa<lb n="5"/>rameṣṭine namaḥ</l>
+        <l>jagatsisṛkṣāpralayakriyāvidhau pra<lb n="3"/>yatnam unmeṣanimeṣavibhramam<space type="punctuation"/></l>
+        <l>vadanti <lb n="4"/>yasyekṣaṇapadmapakṣmaṇāṃ parāya tasmai pa<lb n="5"/>rameṣṭine namaḥ<space type="punctuation"/></l>
       </lg>
       <lg xml:id="GPV_1.2">
-        <l>te sabhāsvarasahasraraśma<lb n="6"/>yo ye smaranti gaṇapāṭham aṣṭakāḥ</l>
-        <l>saṃsmṛ<lb n="7"/>tiś ca na vinopapadyate vṛttabandham iha pā<lb n="8"/>ṇiner api</l>
+        <l>te sabhāsvarasahasraraśma<lb n="6"/>yo ye smaranti gaṇapāṭham aṣṭakāḥ<space type="punctuation"/></l>
+        <l>saṃsmṛ<lb n="7"/>tiś ca na vinopapadyate vṛttabandham iha pā<lb n="8"/>ṇiner api<space type="punctuation"/></l>
       </lg>
       <lg xml:id="GPV_1.3">
-        <l>yathānupūrvyaṃ racanā śrutau su<lb n="9"/>khaṃ karoti na vyaktim anādṛtā tataḥ</l>
-        <l>prayo<lb n="10"/>janādhīnatayā kvacit kvacit kramas samāśrā<pb n="2" facs="4"/><lb n="1"/>yī yathā vidādiṣu</l>
+        <l>yathānupūrvyaṃ racanā śrutau su<lb n="9"/>khaṃ karoti na vyaktim anādṛtā tataḥ<space type="punctuation"/></l>
+        <l>prayo<lb n="10"/>janādhīnatayā kvacit kvacit kramas samāśrā<pb n="2" facs="4"/><lb n="1"/>yī yathā vidādiṣu<space type="punctuation"/></l>
       </lg>
       <lg xml:id="GPV_1.3">
         <l>bhavati gauravam atra ya<lb n="2"/>thāsthite sati gaṇe niyamāt paṭhate yataḥ</l>
-        <l><lb n="3"/>kvacid atho?parathā sa nibhartsyate na khalu va<lb n="4"/>stuni kācid api kṣatiḥ<space/></l><!--drutavilambita-->
+        <l><lb n="3"/>kvacid atho?parathā sa nibhartsyate na khalu va<lb n="4"/>stuni kācid api kṣatiḥ<space type="punctuation"/></l><!--drutavilambita-->
       </lg>
       <lg xml:id="GPV_1.4">
-        <l>aśaknuvanto ma<lb n="5"/>nasāpi gāhito raṇājiraṃ kāvyakathā<lb n="6"/>pathaṃ tathā</l>
+        <l>aśaknuvanto ma<lb n="5"/>nasāpi gāhito raṇājiraṃ kāvyakathā<lb n="6"/>pathaṃ tathā<space type="punctuation"/></l>
         <l>janās taṭasthā api yuddhaśā<lb n="7"/>linaḥ kaveś ca doṣān avacinvate dhikam</l>
       </lg>
       <lg xml:id="GPV_1.5">
-        <l><lb n="8"/>parakīyaguṇena mūrdhni tīvraṃ drughaṇeneva <lb n="9"/>hatāḫ prayānti mūrcchām</l>
+        <l><lb n="8"/>parakīyaguṇena mūrdhni tīvraṃ drughaṇeneva <lb n="9"/>hatāḫ prayānti mūrcchām<space type="punctuation"/></l>
         <l>atha cet skhalitaṃ <lb n="9"/>khalā labhante tad avāpyeva sudhāṃ samucchvasanti</l>
       </lg>
       <lg xml:id="GPV_1.6">
-        <l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim</l>
-        <l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā</l>
+        <l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim<space type="punctuation"/></l>
+        <l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā<space type="punctuation"/></l>
       </lg>
       <p xml:id="GPV_A.1.1.27">sarvādīni sarvanāmā<lb n="5"/>ni</p>
     </body>
     <lg xml:id="GPV_1-1.1.27">
-      <l>sarvaṃ viśvam ubhobhayaṃ ḍataraṃ ḍatametarānyāni</l>
+      <l>sarvaṃ<metamark funciton="separation" place="below" ana="#wordBoundary #boundaryBetweenAksharaValues">|</metamark> viśvam ubhobhayaṃ ḍataraṃ ḍatametarānyāni<space type="punctuation"/></l>
       <l>anyatara-</l>
     </lg>
   </text>
