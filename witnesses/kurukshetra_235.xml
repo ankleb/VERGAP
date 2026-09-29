@@ -105,7 +105,7 @@
     </fileDesc>
     <encodingDesc>
       <editorialDecl><!--<code>&lt;<gi>metamark</gi>&gt;</code>--><!--<code>@<att>ana</att></code>-->
-        <p>Scribal separation marks written below the line are encoded with <gi>metamark</gi> and <att>function</att> <code>="separation"</code>. A simple vertical stroke is transcribed as <c xml:lang="sa">|</c>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <term xml:lang="sa">|'</term>. The simple vertical stroke usually marks a boundary falling between the phonological values represented by two akṣaras, whereas the latter marks a boundary falling within the phonological value represented by a single akṣara. The attribute <att>ana</att> records whether the sign marks a boundary between words or between members of a compound.</p>
+        <p>Scribal separation marks written below the line are encoded with <gi>metamark</gi> and <att>function</att> <code>="separation"</code>. A simple vertical stroke is transcribed as <c xml:lang="sa">|</c>, while a vertical stroke accompanied by an avagraha-like sign is transcribed as <c xml:lang="sa">|'</c>. The simple vertical stroke usually marks a boundary falling between the phonological values represented by two akṣaras, whereas the latter marks a boundary falling within the phonological value represented by a single akṣara. The attribute <att>ana</att> records whether the sign marks a boundary between words or between members of a compound.</p>
 
         <p>Significant blank spaces used by the scribe in place of graphic punctuation are encoded with <gi>space</gi> <att>type</att><code>="punctuation"</code>. Ordinary spacing without a punctuation function is not encoded with <gi>space</gi>.</p>
       </editorialDecl>
@@ -152,7 +152,7 @@
 
   <text corresp="#K" xml:lang="sa">
     <body>
-      <p xml:id="GPV_scribal_namaskar"><pb n="1" facs="3"/><lb n="1"/>oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
+      <p xml:id="GPV_scribal_namaskar"><pb n="1v" facs="3"/><lb n="1"/>oṁ svasti prajābhyaḥ śrīgurave namaḥ ||</p>
 
       <p><lb n="2"/>oṁ</p>
       <lg xml:id="GPV_1.1">
@@ -165,7 +165,7 @@
       </lg>
       <lg xml:id="GPV_1.3">
         <l>yathānupūrvyaṃ racanā śrutau su<lb n="9"/>khaṃ karoti na vyaktim anādṛtā tataḥ<space type="punctuation"/></l>
-        <l>prayo<lb n="10"/>janādhīnatayā kvacit kvacit kramas samāśrā<pb n="2" facs="4"/><lb n="1"/>yī yathā vidādiṣu<space type="punctuation"/></l>
+        <l>prayo<lb n="10"/>janādhīnatayā kvacit kvacit kramas samāśrā<pb n="2r" facs="4"/><lb n="1"/>yī yathā vidādiṣu<space type="punctuation"/></l>
       </lg>
       <lg xml:id="GPV_1.3">
         <l>bhavati gauravam atra ya<lb n="2"/>thāsthite sati gaṇe niyamāt paṭhate yataḥ</l>
@@ -180,10 +180,10 @@
         <l>atha cet skhalitaṃ <lb n="10"/>khalā labhante tad avāpyeva sudhāṃ samucchvasanti</l>
       </lg>
       <lg xml:id="GPV_1.6">
-        <l><pb n="3" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim<space type="punctuation"/></l>
+        <l><pb n="2v" facs="5"/><lb n="1"/>bhavantu vā pūgatithā guṇadviṣas svakarma <lb n="2"/>tebhyo jahi so bhayena kim<space type="punctuation"/></l>
         <l>mṛgāyatas santi tataḥ kṛṣīvalā yathā vapantīha <lb n="3"/>na kiṃ yadṛcchayā<space type="punctuation"/></l>
       </lg>
-      <p xml:id="GPV_A.1.1.27">sarvādīni sarvanāmā<lb n="5"/>ni<space type="punctuation"/></p>
+      <p xml:id="GPV_A.1.1.27"> sarvādīni sarvanāmā<lb n="5"/>ni<space type="punctuation"/></p>
       <lg xml:id="GPV_1.1.27.1">
         <l>sarvaṃ<metamark funciton="separation" place="below" ana="#wordBoundary">|</metamark> viśvam u<metamark funciton="separation" place="below" ana="#wordBoundary">|</metamark>bho<metamark funciton="separation" place="below" ana="#compoundBoundary">|'</metamark>bhayaṃ<metamark funciton="separation" place="below" ana="#wordBoundary">|</metamark> ḍataraṃ<metamark funciton="separation" place="below" ana="#wordBoundary">|</metamark> ḍatame<metamark funciton="separation" place="below" ana="#compoundBoundary">|'</metamark>tarā<lb n="6"/>nyā<metamark funciton="separation" place="below" ana="#compoundBoundary">|'</metamark>ni<metamark funciton="separation" place="below" ana="#wordBoundary">|</metamark><space type="punctuation"/></l>
         <l>anyatara<metamark function="separation" place="below" ana="#compoundBoundary">|</metamark></l>
