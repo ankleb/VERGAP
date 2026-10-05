@@ -126,7 +126,7 @@
         <l>tyattadyadetadadasasta<lb n="4"/>thedamekadviyuṣmadasmac ca<space type="punctuation"/></l>
         <l>bhavatukim ity evam ayaṃ sarvādigaṇo bhyadhāyi budhaiḥ<space type="punctuation"/></l>
       </lg>
-      <p xml:id="GPV_A.1.1.37">sarvādini<lb n="5"/>pātam avyayam<space type="punctuation"/></p>
+      <p xml:id="GPV_A.1.1.37">svarādini<lb n="5"/>pātam avyayam<space type="punctuation"/></p>
       <lg xml:id="GPV_1.1.37.1">
         <l>svaḥ prataḥ punar aṃtas sanutar nnīcaiḥ śanair ṛte yugapat<space type="punctuation"/></l>
         <l>uccair ṛdhag āra<lb n="6"/>t pṛthag īṣad rātrau divādyaḥ śvaḥ<space type="punctuation"/></l>
@@ -137,12 +137,55 @@
       </lg>
       <lg xml:id="GPV_1.1.37.3">
         <l>addheddhā sāmi kaṃ śaṃ<unclear>yogyaktiro</unclear>jyogvatāṃtarā sanā vināstisva<lb n="8"/>styanyannānopāṃśuvihāyasā<space type="punctuation"/></l>
-        <l>kṣamā doṣā mudhā mithyā mitho bhīkṣṇaṃ prabāhukam mithunārya<pb n="31v"/><lb n="1"/>phalaṃ sārdhaṃ mamaś ca mithunaṃ purā<space type="punctuation"/></l>
+        <l>kṣamā doṣā mudhā mithyā mitho bhīkṣṇaṃ prabāhukam mithunārya<pb n="31v"/><lb n="1"/>phalaṃ sārdhaṃ namaś ca mithunaṃ purā<space type="punctuation"/></l>
       </lg>
       </lg>
       <lg xml:id="GPV_1.1.37.4">
         <l>hirug ām aṃ praśāñ ceti vadaṃtaṃ dvijavad yathā <space type="punctuation"/></l>
-        <l><!--ktavāto-->ktvatosunkasunaḥ<lb n="2"/>kṛc ca māṃtas saṃdhyakṣarāṃtakaḥ<space type="punctuation"/></l>
+        <l>ktvātosunkasunaḥ <lb n="2"/>kṛc ca māṃtas saṃdhyakṣarāṃtakaḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.1.37.5">
+        <l>taddhita edhāṅ nidhanas tasilādiḥ kṛtvasuc sujāsthālau<space type="punctuation"/></l>
+        <l>taś śa<lb n="3"/>ccvyarthāś cādyās tathā samāso vyayībhāvaḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.1.37.6">
+        <l>sadṛśaṃ triṣu liṃgeṣu sarvāsu ca vibhaktiṣu<space type="punctuation"/></l>
+        <l>vacaneṣu <lb n="4"/>ca sarveṣu yan na vyeti tad avyayam<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_1.1.trailer">prathamasya prathamapāde<space type="punctuation"/></p>
+      <p xml:id="GPV_A.1.4.57">cādayo sattve</p>sp <lg xml:id="GPV_1.4.57.1">
+        <l>ca vā hā haiva nūnaṃ ce<lb n="5"/>d evaṃ śaśvat supad yupat<space type="punctuation"/></l>
+        <l>kūpat kuvin nec cec caṇ kaccid yatra mākin nakin na ha <space type="punctuation"/></l><!-- cec is likely wrong (unmetrical + repetitious)-->
+      </lg>
+      <lg xml:id="GPV_1.4.57.2">
+        <l>tve tvai re māṅ agho haṃta <lb n="6"/>kilavāvatuthānañaḥ<space type="punctuation"/></l><!-- second pāda unlcear -->
+        <l>śrauṣaḍ vauṣaḍ vaṣaṭ svāhā svadhā smāsmy atha hiḥ khalu<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.57.3">
+        <l>uñ ukañ akārekārā<lb n="7"/></l>v ukāra ṛḷvarṇasahitau ca<space type="punctuation"/></l><!-- the metre of the second pāda seems terribly off -->
+        <l>e o au ao ādaha yāvad yat tad dhig ātaṅkāḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.57.4">
+        <l>velāyāṃ mātrāyāṃ yathā <<lb n="8"/>purāho aho atho m ā no hāhā hehe hai hai pā<unclear>ḍpy</unclear>āḍāho utāho kim<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.57.5">
+        <l>nanu manye nahy asi na brūhī<pb n="32r"/><lb n="1"/>ti nugheva śaṃ si kaṃ vata sam<space type="punctuation"/></l>
+        <l>hikaṃ śukaṃ sukaṃ satyaṃ nahikaṃ sanukaṃ nukaṃ<space type="punctuation"/></l>
+        <l>hi tvāva ṛddhā <lb n="2"/>no iddhā na hi kātu kathaṃ kutaḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.57.6">
+        <l>ṛtaṃ nocen nacet kutra saṃvad yo ho i hai paśu<space type="punctuation"/></l>
+        <l>ahosvid ava<lb n="3"/>hā he phaṭ tājag diṣṭyānuṣak saha<space type="punctuation"/></l>
+      </lg>
+            <lg xml:id="GPV_1.4.57.7">
+        <l>avaṅgalug aye <unclear>paḍvaṅ</unclear>kuṃ ghuṃ guṃ khiṃ kisī pare<space type="punctuation"/></l>
+        <l>kīṃ śīṃ sīṃ vāya<lb n="4"/>vai vāḍvaumaryāmete tra cādayaḥ<space type="punctuation"/></l>
+        <l>pustakeṣu mayā dṛṣṭāś śiṣṭā jñeyāḥ prayogataḥ<space type="punctuation"/></l>
+
+      </lg>
+            <lg xml:id="GPV_1.4.57.8">
+        <l>upasargavibhaktīnāṁ svarāṇām pratirūpakāḥ<space type="punctuation"/></l>
+        <l>nipātā iti boddhavyā durnayomātarañjasā<space type="punctuation"/></l>
       </lg>
     </body>
   </text>
