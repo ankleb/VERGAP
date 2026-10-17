@@ -178,13 +178,33 @@
       </lg>
             <lg xml:id="GPV_1.4.57.7">
         <l>avaṅgalug aye <unclear>paḍvaṅ</unclear>kuṃ ghuṃ guṃ khiṃ kisī pare<space type="punctuation"/></l>
-        <l>kīṃ śīṃ sīṃ vāya<lb n="4"/>vai vāḍvaumaryāmete tra cādayaḥ<space type="punctuation"/></l>
-        <l>pustakeṣu mayā dṛṣṭāś śiṣṭā jñeyāḥ prayogataḥ<space type="punctuation"/></l>
-
+        <l>kīṃ śīṃ sīṃ vāya<lb n="4"/>vai vāḍvaumaryām ete tra cādayaḥ<space type="punctuation"/></l>
+        <l>pustakeṣu mayā dṛṣṭāś śiṣṭajñeyāḥ prayogataḥ<space type="punctuation"/></l>
       </lg>
             <lg xml:id="GPV_1.4.57.8">
-        <l>upasargavibhaktīnāṁ svarāṇām pratirūpakāḥ<space type="punctuation"/></l>
+        <l>upasargavi<lb n="5"/>bhaktīnāṁ svarāṇām pratirūpakāḥ<space type="punctuation"/></l>
         <l>nipātā iti boddhavyā durnayomātarañjasā<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_A.1.4.58">prādayaḥ||</p>
+      <lg xml:id="GPV_1.4.58.1">
+        <l><lb n="6"/>praparāpasamanvavanirdurvyāṅnyadhayo pyatisūdabhayaś ca pratinā saha lakṣayitavyāḥ paryupa<lb n="7"/>yor api lakṣaṇam atra<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_A.1.4.61">ūryādicviḍācaś ca<space type="punctuation"/></p>
+      <lg xml:id="GPV_1.4.61.1">
+        <l>ūryuraryurūrīpā<unclear>pmī</unclear>tālyātālyau tataḥ parau</l>
+        <l><lb n="8"/>ātālī caiva vetālī pūśī saṃśakalā tataḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.61.2">
+        <l>dhvaṃśakalā bhraṃśakalā tathā gulugudhā sajūḥ</l>
+        <l><pb n="32v"/><lb n="1"/>phalū viklī phalī āklī vikārārthābhidhāyinaḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.61.3">
+        <l>ālāṣṭī saha kevāvyā kevālī masma<lb n="2"/>sā tathā<space type="punctuation"/></l>
+        <l>paryālī caiva khevālī tathā samasameti ca</l>
+      </lg>
+      <lg xml:id="GPV_1.4.61.4">
+        <l>varṣālītyevam aṣṭaite hiṃsāyām iha kī<lb n="3"/>rtitāḥ</l>
+        <l>śrauṣaḍvauṣaḍvaṣaṭsvāhāsvadhāprāduḥśradāvisaḥ<space type="punctuation"/></l>
       </lg>
     </body>
   </text>
