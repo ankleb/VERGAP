@@ -206,6 +206,39 @@
         <l>varṣālītyevam aṣṭaite hiṃsāyām iha kī<lb n="3"/>rtitāḥ</l>
         <l>śrauṣaḍvauṣaḍvaṣaṭsvāhāsvadhāprāduḥśradāvisaḥ<space type="punctuation"/></l>
       </lg>
+      <p xml:id="GPV_A.1.4.74">sākṣātprabhṛtīni ca||</p>
+      <lg xml:id="GPV_1.4.74.1">
+        <l>
+          <lb n="4"/>sākṣānmithyāciṃtābhadrāmālocanāsthyādvā prājaryā prājaruhā bījaryā smāt paraś ca bī<lb n="5"/>jaruhā</l>
+        <l>saṃsāryārthelavaṇaṃ tathoṣṇaśītam udakamārdraṃ ca agnau viśe vikapane vikampane <lb n="5"/>visahane pratapane ca<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_1.4.74.2">
+        <l>prādur viśe cāsahane nama āvir iti smṛtāḥ<space type="punctuation"/></l>
+        <l>sākṣādādiṣu māntatvaṃ <lb n="7"/>gatisaṃjñānimittakam<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_1.4.trailer">prathamasya caturthapāde<space type="punctuation"/></p>
+      <p xml:id="GPV_A.2.1.17">tiṣṭadguprabhṛtīni ca<space type="punctuation"/></p>
+      <lg xml:id="GPV.2.1.17.1">
+        <l>tiṣṭadgu samṛ<lb n="8"/>tayavaṃ pūyamānayavaṃ tathā</l>
+        <l>vahadgu samhṛtabusaṃ lūyamānayavaṃ tataḥ</l>
+      </lg>
+      <lg xml:id="GPV.2.1.17.2">
+        <l>khaleyavaṃ lūnayavaṃ tathai<pb n="33r"/><lb n="1"/>vātra khalebusam<space type="punctuation"/></l>
+        <l>saṃhriyamānāyavaṃ ca prāhuḥ p<subst><del rend="wiped out">e</del><add>ū</add></subst>tayavaṃ tataḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV.2.1.17.3">
+        <l>saṃhriyamānabusaṃ ca tathaivā<lb n="2"/>trāyatīgavam<space type="punctuation"/></l>
+        <l>ity etāvaṃta evātra kālaśabdās trayodaśa<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV.2.1.17.4">
+        <l>suṣamaṃ viṣamaṃ niṣṣamaṃ prarathaṃ <lb n="3"/>pragaṃ pdakṣiṇam<space type="punctuation"/></l>
+        <l>padakṣiṇam āyatīsamaṃ prāhṇaṃ saṃpraty asaṃprati ca<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV.2.1.17.5">
+        <l>aparasamaṃ pāpasa<lb n="4"/>maṃ puṇyasamaṃ duṣṣamaṃ ca samabhūmi</l>
+        <l>icpratyayena sahitaṃ samapadātīti ca paṭhaṃti<space type="punctuation"/>||</l>
+      </lg>
+      </lg>
     </body>
   </text>
 </TEI>
