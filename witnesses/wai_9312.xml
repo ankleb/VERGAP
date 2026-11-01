@@ -254,8 +254,8 @@
       </lg>
       <lg xml:id="GPV_2.1.48.x">
         <l>mātaripuruṣaḥ kṣepaś cātra pratiṣiddhā caraṇān pratiyaṃti piṇḍīśūro gehekṣveḍī gehena<lb n="2"/>rdī gehenaṃdī gehevijitī gehevyāḍo garbhetṛpto garbhedṛptaḥ</l>
-        <l>goṣṭeśūro goṣṭevijatī goṣṭekṣve<lb n="3"/>ḍī gehemehī</l>
-        <l>ākhanikavakena samaṃ paṭhanti paṭupaṇḍitapragalbhāṃś ca goṣṭhe ity asyāgre gehedā<lb n="4"/>hīti kecit tu</l>
+        <l>goṣṭeśūro goṣṭevijitī goṣṭekṣve<lb n="3"/>ḍī gehemehī</l>
+        <l>ākhanikavakena samaṃ paṭhaṃti paṭupaṇḍitapragalbhāṃś ca goṣṭe ity asyāgre gehedā<lb n="4"/>hīti kecit tu</l>
       </lg>
       <lg xml:id="GPV_2.1.48.xx">
         <l> karṇeṭiriṭire<subst><del rend="double line above the akṣara">r i</del></subst>ty evaṃ karṇedhurudhurā tathā</l>
@@ -264,25 +264,80 @@
       <p xml:id="GPV_A.2.1.56">upamitaṃ vyāghrādibhis sāmānyāprayoge<space type="punctuation"/></p>
       <lg xml:id="GPV_2.1.56.1">
         <l>vyāghrasimḥavṛṣabhā vṛko vṛṣaś canda<lb n="6"/>naṃ taruvarāhadaṃtinaḥ</l>
-        <l>kuñjaras savṛṣabho balāvikā puṇḍarīkam iti nātra vṛtkṛtiḥ<space type="punctuation"/>||</l>
+        <l>kuñjaras savṛṣabho balāvikā puṇḍarīkam iti nātra vṛtkṛtiḥ<space type="punctuation"/>||</l><!-- rathoddhatā -->
       </lg>
       <p xml:id="GPV_A.2.1.59"><lb n="7"/>śreṇyādayaḥ kṛtādibhiḥ<space type="punctuation"/></p>
       <lg xml:id="GPV_2.1.59.1">
         <l>śreṇinūkanicayau viśipo rāśir indranidhanaśravaṇa<gap reason="unclear" unit="akṣara" quantity="1"/><space type="punctuation"/></l>
-        <l>devamu<lb n="8"/>ṇḍapaṭavaḥ kuśalo bhūtapūgacapalāni puṇaḥ<space type="punctuation"/></l>
+        <l>devamu<lb n="8"/>ṇḍapaṭavaḥ kuśalo bhūtapūgacapalāni puṇaḥ<space type="punctuation"/></l><!-- some 10-syllable samavṛtta? -->
       </lg>
       <lg xml:id="GPV_2.1.59.2">
-        <l>adhyāpako vadanyaś ca <unclear>jvālaṇa</unclear>kṣatriyau ta<pb n="34r"/><lb n="1"/>thā</l>
-        <l>kurdamaḥ paṇḍitaś cātra śreṇyādiṣu ca vṛtkritiḥ<space type="punctuation"/></l>
+        <l>adhyāpako vadanyaś ca brāhmaṇakṣatriyau ta<pb n="34r"/><lb n="1"/>thā</l>
+        <l>kurdamaḥ paṇḍitaś cātra śreṇyādiṣu ca vṛtkṛtiḥ<space type="punctuation"/></l>
       </lg>
       <lg xml:id="GPV_2.1.59.3">
-        <l>kṛtabhūtasamājñātasamāptātāvadhā<lb n="2"/>ritāḥ</l>
+        <l>kṛtabhūtasamājñātasamāmnātāvadhā<lb n="2"/>ritāḥ</l>
         <l>matabhuktasamākhyātasaṃbhāvitanirākṛtāḥ<space type="punctuation"/></l>
       </lg>
       <lg xml:id="GPV_2.1.59.4">
-        <l>upakṛtamitasaṃsevitam upākṛtaṃ cā<lb n="2"/>vakalpitaṃ ceti</l>
-        <l> bhaktāni kṛtādīni śreṇyādīnītham akhilāni<space type="punctuation"/></l><!--āryā-->
+        <l>upakṛtamitasaṃsevitam upākṛtaṃ cā<lb n="3"/>vakalpitaṃ ceti</l>
+        <l> bhaktāni kṛtādīni śreṇyādīnīttham akhilāni<space type="punctuation"/></l><!--āryā-->
       </lg>
+      <p xml:id="GPV_A.2.1.70">kumāraḥ śramaṇādibhiḥ||</p>
+      <lg xml:id="GPV_2.1.70.1">
+        <l><lb n="4"/>śramaṇā kulaṭā dāsī baṃdhakī tāpasī paṭūḥ</l>
+        <l>adhyāpakapravrajitā garbhiṇīmṛdupaṇḍitāḥ||</l>
+      </lg>
+      <lg xml:id="GPV_2.1.70.2">
+        <l><lb n="5"/>kuśalaś capalena samaṃ nipuṇena sahābhirūpakaś ca tathā</l>
+        <l>iti paṃcadaśaivoktāḥ śramaṇādiṣu <lb n="6"/>śabdaśāstrañjaiḥ<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_A.2.1.72">mayūravyaṃsakādayaś ca<space type="punctuation"/></p>
+      <lg xml:id="GPV_2.1.72.1">
+        <l>mayūravyaṃsakachattravyaṃsakau yavanas tathā</l>
+        <l>kaṃ<lb n="7"/>bājo muṃḍaśabdāṃtāv ittham etac catuṣṭayam</l>
+      </lg>
+      <lg xml:id="GPV_2.1.72.2">
+        <l>chandasi hastaḥ pādolāṃgūlaṃ ceti gṛhyāṃtāḥ</l>
+        <l>e<lb n="8"/>hīnumehiyavaṃ tathā tṛtīyaḥ punardāyaḥ</l><!-- metre? -->
+      </lg>
+      <lg xml:id="GPV_2.1.72.3">
+        <l>ehir apahiḥ prahis traya ete vāṇijāṃtās syuḥ</l>
+        <l>svāga<pb n="34v"/><lb n="1"/>tā ca dvitīyā ca paṭhite <gap rend="illegiable" unit="akṣara" quantity= 2/></l>
+      </lg>
+      <lg xml:id="GPV_2.1.72.4">
+        <l>pratyekam uttaraprohāt karma mācakaṭā tathā</l>
+        <l>viṣamā cūḍo dva<lb n="2"/>matā calāvasānā tathā parā vitatā</l><!-- ?! -->
+      </lg>
+      <lg xml:id="GPV_2.1.72.x">
+        <l>āharapūrvā etāḥ paṭhankṛndhi vicakṣaṇāṃ ca tataḥ</l>
+        <l>utpata<lb n="3"/>nipatoccāvacam uddharapūrvotsṛjā tathā visṛjā</l>
+        <l>utpacanipacākiñcanaviśvapracam uccanī<lb n="4"/>caṃ ca<space type="punctuation"/></l>
+      </lg>
+    <lg xml:id="GPV_2.1.72.xx">
+        <l>utpatyapākalāpehiprapyase ihapaṃcamī</l>
+        <l>nipatyarohiṇī snātvākālakācāpace ta<lb n="5"/>thā<space type="punctuation"/></l>
+      </lg>
+    <lg xml:id="GPV_2.1.72.xxx">
+        <l>ācaparācaṃ pītvāsthirake ca śahe ha dve karamāśabdaḥ</l>
+        <l>bhuktvāsuhitaś ca tatas tathā paraḥ pre<lb n="6"/>ṣyapāpīyān</l>
+      </lg>
+      <lg xml:id="GPV_2.1.72.xxxx">
+        <l>ihadvitīyā ca tathā niṣaṇṇaśyāmayā saha</l>
+        <l>aśnītapivatā khādā cāmācā<lb n="7"/>vaniṣkarā</l>
+      </lg>
+      <lg xml:id="GPV_2.1.72.xxxxx">
+        <l>āharanivapā bhirddhilavaṇā pacatatbhṛjjatā kriyāsātatya ākhyātam ākhyāte<lb n="8"/>na samasyate<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_2.1.72.xxxxxx">
+        <l>anyaoadārtapaṭhitā ehīḍādyā hi karmaṇā bahulam</l>
+        <l>ābhīkṣṇye kartāraṃ prāha <pb n="35r"/><lb n="1"/>ca vṛttes tu niścayaḥ kāryaḥ<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_2.1.72.xxxxxxx">
+        <l>jahijoḍo jjahijoḍau jahistaṃba <unclear>u</unclear>jjahistaṃbaḥ<space type="punctuation"/></l>
+        <l>prakūṭaśabde<lb n="2"/>na saha khādatamodatā mayūravyaṃsakādīnām avṛdaṇ tatvan uṣtate<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_2.1.trailer">dvitīyasya prathamapā<lb n="3"/>de</p>
     </body>
   </text>
 </TEI>
