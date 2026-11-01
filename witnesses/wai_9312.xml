@@ -338,6 +338,32 @@
         <l>prakūṭaśabde<lb n="2"/>na saha khādatamodatā mayūravyaṃsakādīnām avṛdaṇ tatvan uṣtate<space type="punctuation"/></l>
       </lg>
       <p xml:id="GPV_2.1.trailer">dvitīyasya prathamapā<lb n="3"/>de</p>
+      <p xml:id="GPV_A.2.2.9">yājakādibhiś ca</p>
+      <lg xml:id="GPV_2.2.9.1">
+        <l>yājakapūjakahotṛsnāpakapriveṣakau carathagaṇakaḥ<space type="punctuation"/></l>
+        <l>udva<lb n="4"/>rtakaparicārakāv adhyāpakapattigaṇakau ca</l>
+      </lg>
+      <lg xml:id="GPV_2.2.9.2">
+        <l>utsādakas tathā bhartā paṭhitā yājakādayaḥ</l>
+        <l><lb n="5"/>cakṣussaṃskārakaṃ teja ityādāv api dṛśyate<space type="punctuation"/></l>
+      </lg>
+      <p xml:id="GPV_A.2.2.31">rājadantādiṣu param</p>
+      <lg xml:id="GPV_2.2.31.1">
+        <l>rājadanto rpi<lb n="6"/>totoptagāḍhādagrevaṇaṃ tathā</l>
+        <l>śūdrāryaṃ siktasaṃmṛṣṭam ādyaṃtau liptavāsitam<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_2.2.31.2">
+        <l>aṃtādī na<lb n="7"/>gnamuṣitaśikṣāsthimadhusarpiṣī</l>
+        <l>tathānyad bhṛṣṭalucitam āraḍvāyani cāṇvakī<space type="punctuation"/></l>
+      </lg>
+      <lg xml:id="GPV_2.2.31.3">
+        <l>gojāvika<lb n="8"/>m apaklinnapakvaṃ gopālikāni ca</l>
+        <l>avaṃtyasmakapūlāsakuraṇḍakaśirovijum</l>
+      </lg>
+      <lg xml:id="GPV_2.2.31.4">
+        <l>taṇḍulaki<pb n="35v"/><lb n="1"/>nvam ulūkhalamusulam ulūkhalarājānau dṛṣadupalam<space type="punctuation"/></l>
+        <l>sarpirmadhunī kēsaśmaśrucittrāsvātī dā<lb n="2"/>ragavaṃ ca sthūlapūlāsavaikārimatam akṣibhruvaṃ tathā</l><!--metre?-->
+      </lg>
     </body>
   </text>
 </TEI>
