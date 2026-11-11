@@ -1,10 +1,10 @@
 # VERGAP
 
-**VERGAP — Verse, Grammar, Pedagogy** studies the *Gaṇapāṭhavivṛti*, a Sanskrit text from ninth-century Kashmir that turns Pāṇini's Gaṇapāṭha — the lexical lists underlying the Aṣṭādhyāyī — into verse. By recasting technical material as poetry, the text made grammar easier to memorise and teach; it is a rare witness to how linguistic theory was transmitted in early South Asia.
-
-The project prepares the first critical edition of the work from its surviving manuscripts, with annotations on grammar, lexicon, metre, and style. It also analyses the text's teaching strategies and, with computational methods, traces its vocabulary across dated corpora. All work is done openly in the Saktumiva environment, and outputs are archived for reuse.
+**VERGAP — Verse, Grammar, Pedagogy** studies the *Gaṇapāṭhavivṛti*, a Sanskrit text from ninth-century Kashmir that turns *gaṇapāṭha* — the lexical lists underlying Pāṇini's *Aṣṭādhyāyī* — into verse. By recasting technical material as poetry, the text made grammar easier to memorise and teach; it is a rare witness to how linguistic theory was transmitted in early South Asia.
 
 This repository holds the data for the critical edition of the *Gaṇapāṭhavivṛti*. The project's other datasets are being prepared in [sanskrit-grammar-datasets](https://github.com/ankleb/sanskrit-grammar-datasets).
+
+The project prepares the first critical edition of the work from its surviving manuscripts, with annotations on grammar, lexicon, metre, and style. It also analyses the text's teaching strategies and, with computational methods, traces its vocabulary across dated corpora. All work is done openly in the [Saktumiva 2.0](https://github.com/chchch/saktumiva) environment created by [Charles Li](https://orcid.org/0000-0001-8247-9374) (see [documentation](https://chchch.github.io/saktumiva/docs/)), and outputs are archived for reuse.
 
 - Project website: <https://ankleb.github.io/VERGAP-project/>
 - CORDIS project page: <https://cordis.europa.eu/project/id/101283632>
