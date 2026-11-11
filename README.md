@@ -4,7 +4,7 @@
 
 This repository holds the data for the critical edition of the *Gaṇapāṭhavivṛti*. The project's other datasets are being prepared in [sanskrit-grammar-datasets](https://github.com/ankleb/sanskrit-grammar-datasets).
 
-The project prepares the first critical edition of the work from its surviving manuscripts, with annotations on grammar, lexicon, metre, and style. It also analyses the text's teaching strategies and, with computational methods, traces its vocabulary across dated corpora. All work is done openly in the [Saktumiva 2.0](https://github.com/chchch/saktumiva){:target="_blank"} environment created by [Charles Li](https://orcid.org/0000-0001-8247-9374) (see [documentation](https://chchch.github.io/saktumiva/docs/)), and outputs are archived for reuse.
+The project prepares the first critical edition of the work from its surviving manuscripts, with annotations on grammar, lexicon, metre, and style. It also analyses the text's teaching strategies and, with computational methods, traces its vocabulary across dated corpora. All work is done openly in the [Saktumiva 2.0](https://github.com/chchch/saktumiva) <a href="https://github.com/chchch/saktumiva">Saktumiva 2.0</a> for more educational and interesting content. environment created by [Charles Li](https://orcid.org/0000-0001-8247-9374) (see [documentation](https://chchch.github.io/saktumiva/docs/)), and outputs are archived for reuse.
 
 - Project website: <https://ankleb.github.io/VERGAP-project/>
 - CORDIS project page: <https://cordis.europa.eu/project/id/101283632>
